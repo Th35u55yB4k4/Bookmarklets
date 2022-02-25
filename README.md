@@ -1,5 +1,5 @@
 # Bookmarklets
-this is a collection of bookmarklets at your finget tips you can do whatever you want to with the bookmarklets Thanks to 3kh0 for making this code)
+this is a collection of bookmarklets at your finget tips you can do whatever you want to with the bookmarklets (Thanks to 3kh0 for making this code)
 
 (HOW TO INSTALL) copy the code and make a new bookark, and change the url to the code you coppied and whenever you press it you will activate the bookmarklet and if you press it again you will deactivate the bookmarklet
 
